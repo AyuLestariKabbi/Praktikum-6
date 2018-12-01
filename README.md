@@ -155,5 +155,5 @@ main(){
     return 0;
 }
 ```
-![Flowchart]()
+![Flowchart](https://github.com/AyuLestariKabbi/Praktikum6/blob/master/FL2.2.jpg)
 ![SS](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum6/master/latihan2/SS2.2.png)
