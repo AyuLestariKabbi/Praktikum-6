@@ -2,7 +2,7 @@
 
 
 ## latihan1 
-**menggunakan header untuk mengabungka fungsi void**
+**menggunakan header untuk menggabungkan fungsi void**
 **Alur Algoritma**
 1. mulai program fungsi dengan menggunakan void
 2. deklarasiakan terlebihdahulu fungsi yang ingin kita masukan ke header di satu file
@@ -10,7 +10,7 @@
 4. kemudian panggil semua data tadi yang sudah di buat di foder yang berbeda kedalam pusat project yang,
 yang ingin kita buat jalan kan project itu dengan menggunakan fungsi juga 
 5. run project jika tidak ada kendala atau eror
-5. end
+6. end
 
 
 **Kode Program**
@@ -78,7 +78,7 @@ int inputData(string v)
 }
 ```
 
-![Flowchart]()
+![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum6/master/FL1.jpg)
 ![SS](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum6/master/latihan1/1.png)
 
 
