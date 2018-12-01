@@ -117,7 +117,7 @@ cout << "Nilai 2 : " << b << endl;
 return 0;
 }
 ```
-![SS]()
+![SS](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum6/master/latihan2/SS2.1.png)
 
 ## latihan2.2
 **membuat fungsi (void) menggunakan passing parameter by value untuk perkalian dua buah bilangan bulat**
