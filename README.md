@@ -86,11 +86,11 @@ int inputData(string v)
 **membuat fungsi (void) menggunakan passing parameter by reference untuk menukar nilai dua buah variable**
 
 **Alur Algoritma**
-1.mulai program untuk menukar nilai 
-2.gunakan cara passing parameter untuk mengalamatkan yang nantinya akan di ubah dalam fungsi
-3.untuk menukar gunakan pointer pada variabel penukar untuk menandakan.
-4.build dan run jika tidak ada kendala (eror) jalankan
-5. end
+1. Mulai program untuk menukar nilai 
+2. Gunakan cara passing parameter untuk mengalamatkan yang nantinya akan di ubah dalam fungsi
+3. Untuk menukar gunakan pointer pada variabel penukar untuk menandakan.
+4. Build dan run jika tidak ada kendala (eror) jalankan
+5. End
 
 **kode Program**
 ```
@@ -155,4 +155,4 @@ main(){
 }
 ```
 ![Flowchart]()
-![SS]()
+![SS](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum6/master/latihan2/SS2.2.png)
