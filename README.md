@@ -117,6 +117,7 @@ cout << "Nilai 2 : " << b << endl;
 return 0;
 }
 ```
+![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum6/master/FL2.1.jpg)
 ![SS](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum6/master/latihan2/SS2.1.png)
 
 ## latihan2.2
