@@ -13,7 +13,7 @@ yang ingin kita buat jalan kan project itu dengan menggunakan fungsi juga
 
 
 **Kode Program**
-##Header 
+## Header 
 ```
 #ifndef KAL_H_INCLUDED
 #define KAL_H_INCLUDED
@@ -45,7 +45,7 @@ int kurang(int a, int b){
 return a-b;
 }
 
-##utama
+## utama
 ```
 #include<iostream>
 #include<kal.h>
@@ -78,7 +78,7 @@ int inputData(string v)
 ```
 
 ![Flowchart]()
-![SS](
+![SS](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum6/master/latihan1/1.png)
 
 
 ##latihan2.1
@@ -117,7 +117,7 @@ return 0;
 ```
 ![SS]()
 
-##latihan2.2
+## latihan2.2
 
 **Alur Algoritma**
 1. mulai program menghitung dua bilangan dengan oprator penjumlah
