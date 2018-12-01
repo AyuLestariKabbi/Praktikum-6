@@ -1,7 +1,8 @@
 # Praktikum6
 
 
-## latihan1 **menggunakan header untuk mengabungka fungsi void**
+## latihan1 
+**menggunakan header untuk mengabungka fungsi void**
 **Alur Algoritma**
 1. mulai program fungsi dengan menggunakan void
 2. deklarasiakan terlebihdahulu fungsi yang ingin kita masukan ke header di satu file
@@ -81,7 +82,8 @@ int inputData(string v)
 ![SS](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum6/master/latihan1/1.png)
 
 
-##latihan2.1
+## latihan2.1
+**membuat fungsi (void) menggunakan passing parameter by reference untuk menukar nilai dua buah variable**
 
 **Alur Algoritma**
 1.mulai program untuk menukar nilai 
@@ -118,6 +120,7 @@ return 0;
 ![SS]()
 
 ## latihan2.2
+**membuat fungsi (void) menggunakan passing parameter by value untuk perkalian dua buah bilangan bulat**
 
 **Alur Algoritma**
 1. mulai program menghitung dua bilangan dengan oprator penjumlah
@@ -152,4 +155,4 @@ main(){
 }
 ```
 ![Flowchart]()
-![SS](
+![SS]()
